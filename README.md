@@ -1,3 +1,5 @@
+apk link: https://github.com/RADIAN-l/Bangla-Farm-Navigator/releases/latest/download/BD_Farm_Nav.apk
+
 🌾 Bangla Farm Navigator
 
 Bangla Farm Navigator is a simple and user-friendly mobile app designed for Bangladeshi farmers. The app provides crop recommendations, weather information, and agricultural guidelines based on the farmer’s location.
