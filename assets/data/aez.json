@@ -1,0 +1,51 @@
+{
+  "Dhaka": [
+    "Madhupur Tract (AEZ 28)",
+    "Brahmaputra–Jamuna Floodplain (AEZ 7)",
+    "Young Brahmaputra & Jamuna Floodplain (AEZ 8)",
+    "Old Brahmaputra Floodplain (AEZ 9)",
+    "Active Ganges Floodplain (AEZ 10, partly)"
+  ],
+  "Chattogram": [
+    "Northern and Eastern Hills (AEZ 29)",
+    "Chattogram Coastal Plain (AEZ 23)",
+    "Meghna Estuarine Floodplain (AEZ 18)",
+    "Tippera Surface (AEZ 19)"
+  ],
+  "Rajshahi": [
+    "High Barind Tract (AEZ 25)",
+    "Low Barind Tract (AEZ 26)",
+    "Ganges River Floodplain (AEZ 11)",
+    "Tista Meander Floodplain (AEZ 2, partly)"
+  ],
+  "Khulna": [
+    "Ganges Tidal Floodplain (AEZ 13)",
+    "Gopalganj–Khulna Beels (AEZ 14)",
+    "Ganges River Floodplain (AEZ 11, partly)",
+    "Ganges Deltaic Floodplain (AEZ 12, partly)"
+  ],
+  "Barishal": [
+    "Ganges Tidal Floodplain (AEZ 13)",
+    "Meghna Estuarine Floodplain (AEZ 18, partly)",
+    "Young Meghna Estuarine Floodplain (AEZ 17)",
+    "Lower Meghna River Floodplain (AEZ 16)"
+  ],
+  "Sylhet": [
+    "Sylhet Basin (AEZ 21)",
+    "Northern & Eastern Hills (AEZ 29, partly)",
+    "Old Meghna Estuarine Floodplain (AEZ 19, partly)",
+    "Haor Basin (AEZ 22)"
+  ],
+  "Rangpur": [
+    "Tista Floodplain (AEZ 2)",
+    "Active Tista Floodplain (AEZ 3)",
+    "Old Himalayan Piedmont Plain (AEZ 1)",
+    "Karatoya–Bangali Floodplain (AEZ 4)"
+  ],
+  "Mymensingh": [
+    "Old Brahmaputra Floodplain (AEZ 9)",
+    "Active Brahmaputra–Jamuna Floodplain (AEZ 7, partly)",
+    "Old Himalayan Piedmont (AEZ 1, partly)",
+    "Haor Basin (AEZ 22, partly)"
+  ]
+}

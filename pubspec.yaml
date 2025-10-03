@@ -1,0 +1,35 @@
+name: bangla_farm_navigator
+description: "Farm app with divisions, AEZ and soil visualizations"
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+  http: ^1.2.0
+  interactiveviewer_gallery: ^0.6.0
+  marquee: ^2.2.3
+  fl_chart: ^0.69.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: "^0.13.1"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/bd_map.png
+    - assets/data/aez.json
+    - assets/data/soil_data.json
+    - assets/logo.png
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/app_icon.png"
